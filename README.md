@@ -1,6 +1,7 @@
 <h1>hello!</h1>
 this is a place where i do stuff
 i mostly make games, but sometimes i make an interesting website here and there
+
 [loglot.tech](https://loglot.github.io/)
 
 <h2>Yet Another 2d Platformer</h2>
