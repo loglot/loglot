@@ -284,7 +284,8 @@ body{
         <title>loglot home</title>
         </head>
         <body>
-             <script src="https://kit.fontawesome.com/95a02bd20d.js"></script>
+             <script src="https://kit.fontawesome.com/95a02bd20d.js">
+             </script>
           <div class="container" order: 10>
              <div class="card">
                <div class="face face1">
