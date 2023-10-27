@@ -1,6 +1,8 @@
 <h1>hello!</h1>
-this is a place where i do stuff
-i mostly make games, but sometimes i make an interesting website here and there
+this is a place where I do stuff
+
+I mostly make games, but sometimes I make an interesting website here and there
+
 
 [loglot.tech](https://loglot.github.io/)
 
