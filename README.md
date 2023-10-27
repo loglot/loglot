@@ -25,7 +25,7 @@
                </div>
                <div class="face face2">
                  <div class="content">
-                   <p> <br><br> This is the first javascript game i've made, very simple, very bad</p>
+                   <p> This is the first javascript game i've made, very simple, very bad</p>
                    <a href="https://loglot.github.io/Yet-Another-Collectathon/" type="button">Play Game</a>
                  </div>
                </div>
@@ -44,20 +44,6 @@
                  </div>
                </div>
             </div>
-            <div class="card">
-                <div class="face face1">
-                  <div class="content">
-               <i class=>></i>               
-                 <h3>Read More</h3>
-                 </div>
-                </div>
-                <div class="face face2">
-                  <div class="content">
-                    <p><br><br> i have a blog! it gets updated when it gets updated</p>
-                    <a href="https://loglotgamedev.wordpress.com/" type="button">Go To Blog</a>
-                  </div>
-                </div>
-              </div>
           </div>
         </body>
     </div>
