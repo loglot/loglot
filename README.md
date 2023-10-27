@@ -257,7 +257,8 @@ body{
   top : 50%;
   position: fixed;
   pointer-events: none;
-}</style>
+}
+</style>
 
 <div class="background">
     <div class="header">
