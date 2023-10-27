@@ -11,7 +11,7 @@
                </div>
                <div class="face face2">
                  <div class="content">
-                   <p> the game i am actively working on (when i'm not working on things like this website, or playing games), made as a sequal in gameplay to demo 0.4</p>
+                   <p> the game i am actively working on (when i'm not working on things like this .md), made as a sequal in gameplay to demo 0.4</p>
                    <a href="https://loglot.github.io/yet-another-2d-platformer/" type="button">Play Game</a>
                  </div>
                </div>
