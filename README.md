@@ -12,6 +12,9 @@ the game I am actively working on (when I'm not working on things like this .md)
 made as a sequal in gameplay to demo 0.4
 
 
+(SEPTEMBER UPDATE) there is now a grappling hook in the game, the gameplay has updated
+
+
 [Play Game](https://loglot.github.io/yet-another-2d-platformer/)
 
 <h2>Yet Another Collectathon</h2>
