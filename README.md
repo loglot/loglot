@@ -4,7 +4,7 @@ this is a place where I do stuff
 I mostly make games, but sometimes I make an interesting website here and there
 
 
-[loglot.tech](https://loglot.github.io/)
+[loglotdev.com](https://loglotdev.com/)
 
 <h2>Yet Another 2d Platformer</h2>
 the game I am actively working on (when I'm not working on things like this .md)
