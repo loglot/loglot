@@ -19,6 +19,13 @@ made as a sequal in gameplay to demo 0.4
 
 [Play Game](https://loglot.github.io/yet-another-2d-platformer/)
 
+<h2>Yet Another Bouncer</h2>
+this is a game that i originally made in a block based language (twice), and i decided to remake it in javascript
+
+this is game number 3
+
+[Play Game](https://loglot.github.io/Yet-Another-Bouncer/)
+
 <h2>Yet Another Flappy Game</h2>
 this is the second completed javascript game i've made
 
