@@ -42,10 +42,4 @@ very simple, very bad
 
 [Play Game](https://loglot.github.io/Yet-Another-Collectathon/)
 
-<h2>demo 0.4</h2>
-this was the first game I've made, it was never finished... hence the title
 
-the code got terrible to expand, so I stopped
-
-
-[Play Game](https://loglot.github.io/abandoned-game/)
