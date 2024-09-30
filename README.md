@@ -1,10 +1,12 @@
 <h1>hello!</h1>
 this is a place where I do stuff
 
-I mostly make games, but sometimes I make an interesting website here and there
+I mostly make games, but sometimes I make an interesting website here and there. 
+the easiest way to contact me is through [discord](discord.loglot.xyz) as i am more likely to see and reply there
 
 
 [loglot.xyz](https://loglot.xyz/)
+
 
 <h2>Yet Another 2d Platformer</h2>
 the game I am actively working on (when I'm not working on things like this .md)
