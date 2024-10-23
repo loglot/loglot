@@ -14,12 +14,13 @@ the game I am actively working on (when I'm not working on things like this .md)
 made as a sequal in gameplay to demo 0.4
 
 
-(SEPTEMBER 2023 UPDATE) there is now a grappling hook in the game, the gameplay has updated
+(SEPTEMBER 2023) there is now a grappling hook in the game, the gameplay has updated
 
-(AUGEST 2024 UPDATE) there are 6 total powers, though only 3 have spots in the map, and the map has insane branching now
+(AUGEST 2024) there are 6 total powers, though only 3 have spots in the map, and the map has insane branching now
 
+(OCTOBER 2024) Due to programming mistakes from early in development, i am re-making YA2P
 
-[Play Game](https://loglot.github.io/yet-another-2d-platformer/)
+[Play Archived Game](https://loglot.github.io/yet-another-2d-platformer-archive/)
 
 <h2>Yet Another Bouncer</h2>
 this is a game that i originally made in a block based language (twice), and i decided to remake it in javascript
