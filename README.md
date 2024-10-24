@@ -5,7 +5,7 @@ I mostly make games, but sometimes I make an interesting website here and there.
 the easiest way to contact me is through [discord](discord.loglot.xyz) as i am more likely to see and reply there
 
 
-[loglot.xyz](https://loglot.xyz/)
+[loglot.xyz](https://loglot.github.io/)
 
 
 <h2>Yet Another 2d Platformer</h2>
