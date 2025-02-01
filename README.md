@@ -8,41 +8,93 @@ the easiest way to contact me is through [discord](discord.loglot.xyz) as i am m
 [loglot.co.in](https://loglot.github.io/)
 
 
-<h2>Yet Another 2d Platformer</h2>
-the game I am actively working on (when I'm not working on things like this .md)
-
-made as a sequal in gameplay to demo 0.4
-
-
-(SEPTEMBER 2023) there is now a grappling hook in the game, the gameplay has updated
-
-(AUGEST 2024) there are 6 total powers, though only 3 have spots in the map, and the map has insane branching now
-
-(OCTOBER 2024) Due to programming mistakes from early in development, i am re-making YA2P
-
-[Play Archived Game](https://loglot.github.io/yet-another-2d-platformer-archive/)
-
-<h2>Yet Another Bouncer</h2>
-this is a game that i originally made in a block based language (twice), and i decided to remake it in javascript
-
-this is game number 3
-
-[Play Game](https://loglot.github.io/Yet-Another-Bouncer/)
-
-<h2>Yet Another Flappy Game</h2>
-this is the second completed javascript game i've made
-
-i made it in one day, and it plays pretty good
-
-
-[Play Game](https://loglot.github.io/Yet-Another-Flappy-Game/)
-
-<h2>Yet Another Collectathon</h2>
-This is the first javascript game I've made
-
-very simple, very bad
-
-
-[Play Game](https://loglot.github.io/Yet-Another-Collectathon/)
-
-
+<table>
+    <tr>
+        <th>Project</th>
+        <th>Link</th>
+        <th>Languages</th>
+        <th>Additional</th>
+    </tr>
+    <tr>
+        <td> Yet Another 2d Platformer </td>
+        <td><a href=https://loglot.github.io/Yet-Another-2d-Platformer>Play Game</td>
+        <td> Javascript </td>
+    </tr>
+    <tr>
+        <td> Yet Another 2d Platformer Archive </td>
+        <td><a href=https://loglot.github.io/yet-another-2d-platformer-archive>Play Game</td>
+        <td> Javascript </td>
+    </tr>
+    <tr>
+        <td> Yet Another 2d Platformer Stability </td>
+        <td><a href=https://loglot.github.io/YA2P-Stability/>Play Game</td>
+        <td> Javascript </td>
+        <td> Aprils Fool </td>
+    </tr>
+    <tr>
+        <td> Yet Another Collectathon </td>
+        <td><a href=https://loglot.github.io/Yet-Another-Collectathon>Play Game</td>
+        <td> Javascript </td>
+    </tr>
+    <tr>
+        <td> Yet Another Collectathon Remake </td>
+        <td><a href=https://loglot-dev.github.io/YaC-Remastered/>Play Game</td>
+        <td> Javascript </td>
+    </tr>
+    <tr>
+        <td> Yet Another Flappy Game </td>
+        <td><a href=https://loglot.github.io/Yet-Another-Flappy-Game/>Play Game</td>
+        <td> Javascript </td>
+    </tr>
+    <tr>
+        <td> Yet Another Idle Game </td>
+        <td><a href=https://loglot.github.io/Yet-Another-Idle-Game/>Play Game</td>
+        <td> Javascript </td>
+    </tr>
+    <tr>
+        <td> Yet Another Bouncer </td>
+        <td><a href=https://loglot.github.io/Yet-Another-Bouncer/>Play Game</td>
+        <td> Javascript </td>
+    </tr>
+    <tr>
+        <td> Demo 0.4 </td>
+        <td><a href=https://loglot.github.io/abandoned-game/>Play Game</td>
+        <td> Scratch </td>
+    </tr>
+    <tr>
+        <td> Sumo Dot </td>
+        <td><a href=https://loglot.github.io/sumo-dot/>Play Game</td>
+        <td> Scratch </td>
+    </tr>
+    <tr>
+        <td> Simple Ball Game </td>
+        <td><a href=https://loglot.github.io/simple-ball-game/>Play Game</td>
+        <td> Scratch </td>
+    </tr>
+    <tr>
+        <td> Website </td>
+        <td><a href=https://loglot.github.io/>Open Website</td>
+        <td> HTML </td>
+    </tr>
+    <tr>
+        <td> Legacy Website </td>
+        <td><a href=https://loglot.github.io/legacy/>Open Website</td>
+        <td> Canva </td>
+    </tr>
+    <tr>
+        <td> Yet Another Music Player </td>
+        <td><a href=https://loglot.github.io/Yet-Another-Music-Player/>Open Project</td>
+        <td> Javascript / Electron </td>
+        <td><a href=https://github.com/loglot/Yet-Another-Music-Player/releases>Download</td>
+    </tr>
+    <tr>
+        <td> Yet Another Gamepad Tester </td>
+        <td><a href=https://loglot.github.io/Yet-Another-Gamepad-Tester/>Open Project</td>
+        <td> Javascript </td>
+    </tr>
+    <tr>
+        <td> Metaballs </td>
+        <td><a href=https://loglot.github.io/MetaBalls/>Open Project</td>
+        <td> Javascript </td>
+    </tr>
+</table>
